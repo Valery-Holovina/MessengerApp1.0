@@ -7,6 +7,12 @@
 
 import SwiftUI
 
+
+// command + option + n = create folder
+
+
+
+
 struct ContentView: View {
     var body: some View {
         VStack {
